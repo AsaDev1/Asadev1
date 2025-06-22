@@ -17,7 +17,7 @@ I'm a passionate Full Stack Developer.
 | Name | Description | Stack |
 |------|-------------|-------|
 | [FYP Automation Tool](https://csfyp.live) | Cloud-based tool to automate FYP management | React, NodeJs, PostgreSQL |
-| [Expense Tracker App](https://github.com/AsaDev1/x-clone) | X(Twitter) Clone | MongoDB, React, NodeJs, ExpressJs |
+| [X Clone](https://github.com/AsaDev1/x-clone) | X(Twitter) Clone with Posts and Comments| MongoDB, React, NodeJs, ExpressJs |
 | [Todo App](https://github.com/AsaDev1/todo-list) | Crossplatform Todo List App | React Native, Expo |
 
 ## 🧰 Tech Stack
